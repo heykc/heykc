@@ -1,5 +1,16 @@
 # Hey, I'm Keith! Welcome to my Github 👋
 
+## About Me
+I'm a web, app, and game developer based in Denver, CO 🌄.
+
+Quick facts!
+- avid rock climber
+- lazy cyclist
+- terrible painter
+- novice skateboarder
+- ameture cook
+- generally curious
+
 ## Currently Working On
 A short list of what I'm cookin' up at any given moment.
 
@@ -12,9 +23,6 @@ Chain-Letter is a small, collaborative project built by a group of developers lo
 Die Ghost is a top-down, 2D, multiplayer video game where you and your opponents are ghosts in a graveyard trying to unearth each other's bones. Move your bones from grave to grave but don't lose track of where they are as all movement occurs underground. You wouldn't want to unearth your own bones!
 
 Die Ghost is a solo project built using the Defold engine and predominately programmed in Lua.
-
-### About Me
-I'm a web, app, and game developer based in Denver, CO 🌄.
 
 [![heykc's github stats](https://github-readme-stats.vercel.app/api?username=heykc&theme=vue)](https://github.com/heykc/github-readme-stats)
 
