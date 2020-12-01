@@ -20,9 +20,11 @@ Chain-letter allows users to chain snippets of text to create a collaborative st
 Chain-Letter is a small, collaborative project built by a group of developers looking to make interesting resume boosters while learning the ins and outs of common development workflows like git flow, linters, pair programming, code reviews, and PR submission. 
 
 ### Die Ghost
+![Die Ghost Logo](https://img.itch.zone/aW1nLzM0NzYzMTEucG5n/315x250%23c/m5bHwa.png)
+
 Die Ghost is a top-down, 2D, multiplayer video game where you and your opponents are ghosts in a graveyard trying to unearth each other's bones. Move your bones from grave to grave but don't lose track of where they are as all movement occurs underground. You wouldn't want to unearth your own bones!
 
-Die Ghost is a solo project built using the Defold engine and predominately programmed in Lua.
+Die Ghost is a solo project built using the Defold game engine and programmed in Lua. Art and animations by [Matt Dunne](https://www.instagram.com/matt_dunne/)
 
 [![heykc's github stats](https://github-readme-stats.vercel.app/api?username=heykc&theme=vue)](https://github.com/heykc/github-readme-stats)
 
